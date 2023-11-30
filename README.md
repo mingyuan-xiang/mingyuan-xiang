@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 🙃
 
-[![Mingyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuan-xiang&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- Homepage 📖: https://mingyuan-xiang.github.io
+- Email 📫: myxiang \[at\] uchicago \[dot\] edu
+
+[![Mingyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuan-xiang&count_private=true&show_icons=true&theme=buefy&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mingyuan-xiang/mingyuan-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
