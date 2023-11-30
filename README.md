@@ -1,5 +1,7 @@
 ### Hi there 🙃
 
+I'm Mingyuan Xiang!
+
 - Homepage 📖: https://mingyuan-xiang.github.io
 - Email 📫: myxiang \[at\] uchicago \[dot\] edu
 
