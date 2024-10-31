@@ -2,7 +2,7 @@
 
 I'm Mingyuan Xiang!
 
-- Homepage 📖: https://mingyuan-xiang.github.io
+- Homepage 📖: https://people.cs.uchicago.edu/~myxiang
 - Email 📫: myxiang \[at\] uchicago \[dot\] edu
 
 <!--
